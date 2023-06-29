@@ -1,0 +1,1 @@
+./miner -a minotaurx -o stratum+tcp://minotaurx.asia.mine.zergpool.com:7019 -u DN5C7yLyMV5eSmVBtxPDA3ntfKGUZ9Wcpk.S905x4 --timeout 120 -p c=DOGE,mc=AVN -t 4
